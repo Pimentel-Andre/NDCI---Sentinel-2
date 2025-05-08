@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "area_estudo_chl_a",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -50.187308607514446, -21.082097236129481 ], [ -49.760118055554841, -21.137475477919033 ], [ -49.777970410732415, -21.3709293533181 ], [ -50.209173451175396, -21.326298465374162 ], [ -50.187308607514446, -21.082097236129481 ] ] ] ] } }
+]
+}
