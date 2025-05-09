@@ -10,7 +10,7 @@ O Sentinel oferece uma alternativa às técnicas tradicionais de amostragem in s
 ![image](https://github.com/user-attachments/assets/93e38496-3251-4c7d-8b6d-bd59e32acca2)
 
 ## Cadastro no site da Copernicus
-Para iniciar as análises no script diff_ndvi_landslides.ipynb, crie um login no site abaixo. Utilizaremos o site da Copernicus para obter as imagens do Sentinel-2: 
+Para iniciar as análises no script, crie um login no site abaixo. Utilizaremos o site da Copernicus para obter as imagens do Sentinel-2: 
 
 https://dataspace.copernicus.eu/
 
